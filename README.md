@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jocontreras/feb17-slow-food-sinatra.png?label=ready&title=Ready)](https://waffle.io/jocontreras/feb17-slow-food-sinatra)
 ### SlowFood (Sinatra)
 
 Our client is a Restaurant owner that needs an website where he can list his menu and allow visitors to place orders.
